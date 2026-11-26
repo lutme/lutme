@@ -10,6 +10,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gblgo&repo=gbl&theme=radical&hide_border=true&layout=compact"/>
 </a>
 
-<br>
+<div></div>
 
 ![](header_pic.png)
