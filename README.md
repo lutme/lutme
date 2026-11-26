@@ -6,9 +6,11 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=1D85F7&width=435&lines=println%28%22Hello+World%22%29" alt="Typing SVG" /></a>
 </div>
 
-<a href="https://github.com/gblgo/gbl">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gblgo&repo=gbl&theme=radical&hide_border=true&layout=compact"/>
-</a>
+<div align="center">
+  <a href="https://github.com/gblgo/gbl">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gblgo&repo=gbl&theme=radical&hide_border=true&layout=compact"/>
+  </a>
+</div>
 
 <div><h3></h3></div>
 
